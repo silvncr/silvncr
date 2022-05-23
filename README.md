@@ -85,8 +85,8 @@
 				src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
 				alt="nodejs" width="40" height="40"></a>
 		<!--Node.js-->
-		<a href="https://github.com/TurnipGuy30/Prado" target="_blank" rel="noopener noreferrer"><img
-				src="https://raw.githubusercontent.com/TurnipGuy30/Prado/main/logo.png" alt="prado" width="40"
+		<a href="https://github.com/PradoLang/Prado" target="_blank" rel="noopener noreferrer"><img
+				src="https://raw.githubusercontent.com/PradoLang/Prado/main/logo.png" alt="prado" width="40"
 				height="40"></a>
 		<!--Prado-->
 		<a href="https://www.python.org" target="_blank" rel="noopener noreferrer"><img

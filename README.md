@@ -1,6 +1,8 @@
 <div align="center">
+	<hr>
 	<h1 id="title"><code>✨</code> Hi, I'm JohnnySD! <code>✨</code></h1>
 	<h3>I'm a high-school student using GitHub for both school assignments and personal projects.</h3>
+	<hr>
 	<p>
 		<a href="https://github.com/TurnipGuy30" target="_blank" rel="noopener noreferrer"><img
 				src="https://gpvc.arturio.dev/TurnipGuy30"></a>

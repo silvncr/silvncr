@@ -75,10 +75,9 @@
 	<p>
 		<a href="https://github.com/Pokemon-PythonRed/Pokemon-PythonRed" target="_blank" rel="noopener noreferrer"><img alt="Pokemon-PythonRed/Pokemon-PythonRed" src="https://github-readme-stats.vercel.app/api/pin/?username=Pokemon-PythonRed&repo=Pokemon-PythonRed&theme=tokyonight&show_owner=false" width="400" height="150"></a>
 		<a href="https://github.com/PradoLang/Prado" target="_blank" rel="noopener noreferrer"><img alt="PradoLang/Prado" src="https://github-readme-stats.vercel.app/api/pin/?username=PradoLang&repo=Prado&theme=tokyonight&show_owner=true" width="400" height="150"></a>
-		<a href="https://github.com/TurnipGuy30/Hello-World" target="_blank" rel="noopener noreferrer"><img alt="TurnipGuy30/Hello-World" src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=Helloz&theme=tokyonight&show_owner=false" width="400" height="150"></a>
+		<a href="https://github.com/TurnipGuy30/Helloz" target="_blank" rel="noopener noreferrer"><img alt="TurnipGuy30/Helloz" src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=Helloz&theme=tokyonight&show_owner=false" width="400" height="150"></a>
 		<a href="https://github.com/TurnipGuy30/School" target="_blank" rel="noopener noreferrer"><img alt="TurnipGuy30/School" src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=School&theme=tokyonight&show_owner=false" width="400" height="150"></a>
 		<a href="https://github.com/TurnipGuy30/Celebi" target="_blank" rel="noopener noreferrer"><img alt="TurnipGuy30/Celebi" src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=Celebi&theme=tokyonight&show_owner=false" width="400" height="150"></a>
-		<a href="https://github.com/TurnipGuy30/Celebi" target="_blank" rel="noopener noreferrer"><img alt="TurnipGuy30/Celebi" src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=BF&theme=tokyonight&show_owner=false" width="400" height="150"></a>
 	</p>
 	<hr>
 	<p>

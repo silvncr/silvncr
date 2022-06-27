@@ -22,7 +22,8 @@ jobs:
           plugin_achievements_limit: 0
           plugin_traffic: yes
           plugin_languages: yes
-          plugin_languages_ignored: C, C++, CSV, D, F#, HyPhy, Jupyter Notebook, Limbo, SVG, Text
+          plugin_languages_ignored: C, C++, D, F#, HyPhy, Limbo, SVG, Text
+          plugin_languages_skipped: Jupyter
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_details: percentage

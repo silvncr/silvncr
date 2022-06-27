@@ -22,7 +22,7 @@ jobs:
           plugin_achievements_limit: 0
           plugin_traffic: yes
           plugin_languages: yes
-          plugin_languages_ignored: Brainfuck, C, C++, CSV, D, Jupyter Notebook, SQL, SVG
+          plugin_languages_ignored: Brainfuck, C, C++, CSV, D, F#, Jupyter Notebook, Limbo, SQL, SVG, Text
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_details: percentage

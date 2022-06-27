@@ -33,7 +33,7 @@
 	</p>
 	<hr>
 	<p>
-		<img class="trophies" src="https://github-profile-trophy.vercel.app/?username=TurnipGuy30&theme=dracula&no-frame=true&column=8" alt="trophies">
+		<img class="trophies" src="https://github-profile-trophy.vercel.app/?username=TurnipGuy30&theme=dracula&no-frame=true&column=-1" alt="trophies">
 	</p>
 	<hr>
 </div>

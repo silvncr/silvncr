@@ -40,4 +40,3 @@ jobs:
           plugin_wakatime_user: .user.login
           plugin_lines: yes
           plugin_notable: yes
-          

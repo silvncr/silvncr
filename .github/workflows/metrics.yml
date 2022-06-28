@@ -22,22 +22,30 @@ jobs:
           plugin_achievements_limit: 0
           plugin_traffic: yes
           plugin_languages: yes
-          plugin_languages_ignored: C, C++, D, F#, HyPhy, Limbo, SVG, Text
+          plugin_languages_indepth: yes
+          plugin_languages_ignored: >-
+            C, C++, D, F#, HyPhy, Limbo, SVG, Text
           plugin_languages_skipped: Jupyter
-          plugin_languages_limit: 8
           plugin_languages_sections: most-used
-          plugin_languages_details: percentage
-          plugin_languages_threshold: 0%
+          plugin_languages_details: bytes-size, percentage, lines
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming, data, prose
           plugin_languages_recent_load: 500
           plugin_languages_recent_days: 7
-          commits_authoring: ba004629@bac.qld.edu.au, johnsdieckmann@gmail.com
+          commits_authoring: >-
+            TurnipGuy30, ba004629@bac.qld.edu.au, johnsdieckmann@gmail.com
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 7
-          plugin_wakatime_sections: time
+          plugin_wakatime_sections: time, languages, editors, os
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: .user.login
           plugin_lines: yes
           plugin_notable: yes
+          plugin_starlists: yes
+          plugin_starlists_languages: yes
+          plugin_starlists_limit_repositories: 0
+          plugin_people: yes
+          plugin_followup: yes
+          plugin_followup_indepth: yes
+          plugin_followup_sections: repositories, user

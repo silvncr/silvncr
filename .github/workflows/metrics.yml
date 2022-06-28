@@ -36,12 +36,11 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 7
-          plugin_wakatime_sections: time, editors, os
+          plugin_wakatime_sections: time
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: .user.login
           plugin_lines: yes
           plugin_notable: yes
-          plugin_people: yes
           plugin_followup: yes
           plugin_followup_indepth: yes
           plugin_followup_sections: repositories, user

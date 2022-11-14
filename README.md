@@ -18,7 +18,7 @@
 		<summary>My Statistics</summary>
 		<hr>
 		<p>
-			<img src="https://github-readme-stats.vercel.app/api/top-langs?username=turnipguy30&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10&custom_title=Most%20Used%20Languages%20%28Complete%29">
+			<img src="https://github-readme-stats.vercel.app/api/top-langs?username=turnipguy30&show_icons=false&locale=en&layout=compact&theme=transparent&langs_count=10&count_private=true&hide=Jupyter%20Notebook,CSV,SQL,SVG">
 		</p>
 		<p>
 			<img src="https://raw.githubusercontent.com/TurnipGuy30/TurnipGuy30/main/github-metrics.svg">

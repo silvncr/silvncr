@@ -471,7 +471,7 @@
                                 <div class="text">Joined 8 organizations</div>
                             </div>
                         </div>
-                        <div class="achievement a largeable-width-half">
+                        <div class="achievement s largeable-width-half">
                             <div class="icon">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
                                     <defs>
@@ -481,16 +481,16 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="37.975 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" fill="none" fill-rule="evenodd">
-                                            <path d="M28 37c1.003.005.997-.443 1-1 .004-1.458-.004-4.629 0-6-.007-.564-.068-.987-1-1-2.118 0-4 1.79-4 4s1.882 4 4 4zM48 37c-1.003.005-.997-.443-1-1-.004-1.458.004-4.629 0-6 .007-.564.068-.987 1-1 2.118 0 4 1.79 4 4s-1.882 4-4 4z" stroke="#B59151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                            <path d="M26 51c.798-4.48 4.87-8.082 9.97-8.849.66-.1 1.338-.151 2.028-.151m9.606 4.038c1.27 1.408 2.12 3.102 2.396 4.945M32.002 39.71A8.966 8.966 0 0038 42a8.967 8.967 0 006.02-2.31m-.015-12.394A8.967 8.967 0 0038 25a8.966 8.966 0 00-5.994 2.286" stroke="#FFD576" stroke-width="2" stroke-linecap="round"/>
-                                            <path d="M38 45c.17 0 .34-.004.509-.01 5.23-.219 9.596-3.785 11.01-8.613m-.004-6.766C48.052 24.634 43.45 21 38 21c-5.485 0-10.11 3.68-11.542 8.706" stroke="#B59151" stroke-width="2"/>
-                                            <path d="M37.85 44h1.173c.54 0 .977.438.977.977v.523a1.5 1.5 0 01-3 0v-.65c0-.47.38-.85.85-.85z" fill="#B59151"/>
-                                            <path d="M22 27h-3v4l-6-4H7a2 2 0 01-2-2V7a2 2 0 012-2h33a2 2 0 012 2v10" stroke="#FFD576" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                            <g stroke="#B59151" stroke-linecap="round" stroke-width="2">
+                                            <path d="M28 37c1.003.005.997-.443 1-1 .004-1.458-.004-4.629 0-6-.007-.564-.068-.987-1-1-2.118 0-4 1.79-4 4s1.882 4 4 4zM48 37c-1.003.005-.997-.443-1-1-.004-1.458.004-4.629 0-6 .007-.564.068-.987 1-1 2.118 0 4 1.79 4 4s-1.882 4-4 4z" stroke="#EB355E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                            <path d="M26 51c.798-4.48 4.87-8.082 9.97-8.849.66-.1 1.338-.151 2.028-.151m9.606 4.038c1.27 1.408 2.12 3.102 2.396 4.945M32.002 39.71A8.966 8.966 0 0038 42a8.967 8.967 0 006.02-2.31m-.015-12.394A8.967 8.967 0 0038 25a8.966 8.966 0 00-5.994 2.286" stroke="#731237" stroke-width="2" stroke-linecap="round"/>
+                                            <path d="M38 45c.17 0 .34-.004.509-.01 5.23-.219 9.596-3.785 11.01-8.613m-.004-6.766C48.052 24.634 43.45 21 38 21c-5.485 0-10.11 3.68-11.542 8.706" stroke="#EB355E" stroke-width="2"/>
+                                            <path d="M37.85 44h1.173c.54 0 .977.438.977.977v.523a1.5 1.5 0 01-3 0v-.65c0-.47.38-.85.85-.85z" fill="#EB355E"/>
+                                            <path d="M22 27h-3v4l-6-4H7a2 2 0 01-2-2V7a2 2 0 012-2h33a2 2 0 012 2v10" stroke="#731237" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                            <g stroke="#EB355E" stroke-linecap="round" stroke-width="2">
                                                 <path stroke-linejoin="round" d="M17 13l-3 3 3 3M30 13l3 3-3 3"/>
                                                 <path d="M25.03 10.986l-3.015 10.027"/>
                                             </g>
@@ -500,13 +500,13 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                                    <span class="prefix">Super</span>
+                                    <span class="prefix">Master</span>
                                     helper
                                     <div class="value-wrapper">
-                                        <div class="value">99</div>
+                                        <div class="value">100</div>
                                     </div>
                                 </div>
-                                <div class="text">Answered and solved 99 discussions</div>
+                                <div class="text">Answered and solved 100 discussions</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -1251,7 +1251,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Dec 2022, 03:25:26  with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 18 Dec 2022, 03:36:25  with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

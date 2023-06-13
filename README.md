@@ -5,7 +5,6 @@
 	</p>
 	<hr>
 	<p>
-		<img src="https://gpvc.arturio.dev/silvncr">
 		<img src="https://img.shields.io/github/stars/silvncr">
 		<a href="https://wakatime.com/@580a86f3-d10f-4415-ac5c-b9a0b252a2fb"><img src="https://wakatime.com/badge/user/580a86f3-d10f-4415-ac5c-b9a0b252a2fb.svg"></a>
 		<a href="https://github.com/silvncr/silvncr/actions/workflows/metrics.yml"><img src="https://github.com/silvncr/silvncr/actions/workflows/metrics.yml/badge.svg?branch=main"></a>

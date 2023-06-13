@@ -32,7 +32,7 @@ jobs:
           #plugin_languages_recent_load: 500
           #plugin_languages_recent_days: 7
           commits_authoring: >-
-            TurnipGuy30, ba004629@bac.qld.edu.au, johnsdieckmann@gmail.com
+            silvncr, TurnipGuy30, ba004629@bac.qld.edu.au, johnsdieckmann@gmail.com
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 7

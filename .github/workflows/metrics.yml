@@ -21,15 +21,15 @@ jobs:
           plugin_achievements_display: compact
           plugin_achievements_limit: 0
           plugin_traffic: no #plugin_traffic: yes
-          #plugin_languages: yes
-          #plugin_languages_ignored: >-
-          #  C, C++, D, F#, HyPhy, Limbo, SVG, Text
-          #plugin_languages_skipped: Jupyter
-          #plugin_languages_sections: most-used
-          #plugin_languages_details: percentage
-          #plugin_languages_analysis_timeout: 15
-          #plugin_languages_categories: markup, programming, data, prose
-          #plugin_languages_recent_load: 500
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            C, C++, D, F#, HyPhy, Limbo, SVG, Text
+          plugin_languages_skipped: Jupyter
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming, data, prose
+          plugin_languages_recent_load: 500
           #plugin_languages_recent_days: 7
           commits_authoring: >-
             silvncr, TurnipGuy30, ba004629@bac.qld.edu.au, johnsdieckmann@gmail.com

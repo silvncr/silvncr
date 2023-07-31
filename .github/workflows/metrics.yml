@@ -2,7 +2,7 @@ name: Metrics
 on:
   workflow_dispatch:
   push: {
-    branches: [master, main]
+    branches: main
   }
   schedule:
     - cron: '* * * * *'

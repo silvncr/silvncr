@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1113 Commits
+                            1110 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="223.961072098556" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="223.961072098556" y="0" width="66.34059038733837" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="290.3016624858944" y="0" width="58.01206074937648" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="348.31372323527086" y="0" width="40.141595210200606" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="388.45531844547145" y="0" width="29.568098671017548" height="8" fill="#a52a22"/>
-                    <rect mask="url(#languages-bar)" x="418.02341711648904" y="0" width="26.58583041637617" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="444.6092475328652" y="0" width="7.746623637056257" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="452.3558711699215" y="0" width="7.64412883007856" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="224.74228281192913" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="224.74228281192913" y="0" width="66.12102499444806" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="290.8633078063772" y="0" width="57.820060032523585" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="348.6833678389008" y="0" width="40.00873981846967" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="388.6921076573704" y="0" width="29.470238052596514" height="8" fill="#a52a22"/>
+                    <rect mask="url(#languages-bar)" x="418.162345709967" y="0" width="26.49784011863229" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="444.66018582859925" y="0" width="7.720984877248533" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="452.3811707058478" y="0" width="7.618829294152201" height="8" fill="#e38c00"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -238,7 +238,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>48.69%</div>
+                                <div>48.86%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -249,7 +249,7 @@
                                 C#
                             </div>
                             <small>
-                                <div>12.61%</div>
+                                <div>12.57%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -260,7 +260,7 @@
                                 Jinja
                             </div>
                             <small>
-                                <div>6.43%</div>
+                                <div>6.41%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -284,7 +284,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>14.42%</div>
+                                <div>14.37%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -295,7 +295,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>8.73%</div>
+                                <div>8.7%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -306,7 +306,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>5.78%</div>
+                                <div>5.76%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -594,7 +594,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.61m out of 128m users</span>
+                                    <span class="gh">ranked 1.71m out of 128m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">28</div>
                                     </div>
@@ -880,7 +880,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 486k out of 58.2m repositories</span>
+                                    <span class="gh">ranked 486k out of 65.6m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">63</div>
                                     </div>
@@ -929,7 +929,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.61m out of 58.2m repositories</span>
+                                    <span class="gh">ranked 2.61m out of 65.6m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">3</div>
                                     </div>
@@ -1341,7 +1341,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jan 2024, 08:53:46  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jan 2024, 09:11:18  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
